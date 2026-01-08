@@ -1,2 +1,2 @@
 # lost-and-found-devops
-description for the repo
+A DevOps-enabled Lost & Found web application demonstrating CI/CD, Dockerization, and cloud deployment.
